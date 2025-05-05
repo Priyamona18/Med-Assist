@@ -1,0 +1,13 @@
+flask==2.2.2
+flask-cors==3.1.1
+nltk==3.7
+numpy==1.23.5
+pandas==1.5.1
+scikit-learn==1.1.2
+tensorflow==2.10.0
+speechrecognition==3.8.1
+pyaudio==0.2.11
+pyttsx3==2.90
+flask-socketio==5.3.0
+gunicorn==20.1.0
+python-dotenv==0.21.0
